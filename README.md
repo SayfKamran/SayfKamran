@@ -2,10 +2,8 @@
 
 <h2>👨‍💻 Mechatronics Engineering Projects</h2>
 
-  - [MechaClaw (C++, Arduino, Solidworks)](https://github.com/SayfKamran/MechaClaw)
-- <b>Robotic Navagation</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- [MechaClaw (C++, Arduino, Solidworks)](https://github.com/SayfKamran/MechaClaw)
+- [Autonomous Environmental Mapping and Wall Following Robot (C++, Ubuntu, Visual Studio, Linux)](https://github.com/SayfKamran/Enviromental-Mapping-)
 
 <h2> 🤳 Connect with me:</h2>
 
