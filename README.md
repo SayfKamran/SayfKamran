@@ -3,7 +3,7 @@
 <h2>👨‍💻 Mechatronics Engineering Projects</h2>
 
   - [MechaClaw (C++, Arduino, Solidworks)](https://github.com/SayfKamran/MechaClaw)
-- <b>PowerShell</b>
+- <b>Robotic Navagation</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
@@ -13,8 +13,8 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[instagram]: https://www.instagram.com/sayf_kamran/
+[linkedin]: https://linkedin.com/in/sayfkamran
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
