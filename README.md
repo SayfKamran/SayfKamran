@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Mechatronics Engineering Projects</h2>
 
-  - [MechaClaw (C++, Arduino, Solidworks)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [MechaClaw (C++, Arduino, Solidworks)]https://github.com/SayfKamran/MechaClaw)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
