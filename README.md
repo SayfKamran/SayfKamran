@@ -12,7 +12,7 @@
 
 <h> 🔧 Mechanical Projects</h2>
 
-- [SolidWorks Designs (Assemblies, Parts)](https://github.com/SayfKamran/Codes)
+- [SolidWorks Designs (Assemblies, Parts)](https://github.com/SayfKamran/SolidWorks)
 
 <h> 💻 Coding Projects</h2>
 -  [C++ Codes](https://github.com/SayfKamran/Codes)
