@@ -8,7 +8,7 @@
 - [SolidWorks Designs (Assemblies, Parts)](https://github.com/SayfKamran/Codes)
 
 <h>👨‍💻Hardware Projects/Designs</h2>
-- [PCB Designs & Simulations (Proteus)](https://github.com/SayfKamran/Codes)
+- [PCB Designs & Simulations (Proteus)](https://github.com/SayfKamran/PCB_Design_and_Simulation/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
