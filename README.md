@@ -6,6 +6,8 @@
 - [Autonomous Environmental Mapping and Wall Following Robot (C++, Ubuntu, Visual Studio, Linux)](https://github.com/SayfKamran/Enviromental-Mapping-)
 - [C++ Codes](https://github.com/SayfKamran/Codes)
 - [SolidWorks Designs (Assemblies, Parts)](https://github.com/SayfKamran/Codes)
+<h2>👨‍💻Hardware Projects/Designs</h2>
+- [PCB Design & Simulations (Proteus)](https://github.com/SayfKamran/Codes)
 
 <h2> 🤳 Connect with me:</h2>
 
