@@ -2,13 +2,20 @@
 
 <h2>👨‍💻 Mechatronics Engineering Projects</h2>
 
+<h>🤖 Robotics Projects</h2>
+
 - [MechaClaw (C++, Arduino, Solidworks)](https://github.com/SayfKamran/MechaClaw)
 - [Autonomous Environmental Mapping and Wall Following Robot (C++, Ubuntu, Visual Studio, Linux)](https://github.com/SayfKamran/Enviromental-Mapping-)
-- [C++ Codes](https://github.com/SayfKamran/Codes)
+
+<h> 💡 Hardware Projects/Designs</h2>
+- [PCB Designs & Simulations (Proteus)](https://github.com/SayfKamran/PCB_Design_and_Simulation/tree/main)
+
+<h> 🔧 Mechanical Projects</h2>
+
 - [SolidWorks Designs (Assemblies, Parts)](https://github.com/SayfKamran/Codes)
 
-<h>👨‍💻Hardware Projects/Designs</h2>
-- [PCB Designs & Simulations (Proteus)](https://github.com/SayfKamran/PCB_Design_and_Simulation/tree/main)
+<h> 💻 Coding Projects</h2>
+-  [C++ Codes](https://github.com/SayfKamran/Codes)
 
 <h2> 🤳 Connect with me:</h2>
 
